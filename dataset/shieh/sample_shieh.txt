@@ -1,0 +1,7 @@
+shieh - Tainan2020dataset
+old data sample:
+    gender  age  statusPFS  statusOS  surgery  dose  TMZ  Chemogroup  Chemo  diagnostic year    OS       PFS  volume  gender.1  age.1
+53       2   47          1         1        1  6000  1.0           1      1                2  2.68  1.986301     NaN         2     47
+new data sample:
+    sex_1male_0female  Age Chemo Dose       PFS Progress Surgery Volume  age  chemo  dose  progress  surgery  volume
+82                  1  NaN   NaN  NaN  0.558904      NaN     NaN    NaN   80      0  5400  0.558904        1   714.0

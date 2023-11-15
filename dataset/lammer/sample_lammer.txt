@@ -1,0 +1,7 @@
+lammer - Munich2019dataset
+old data sample:
+    patient ID sex  age [years]  OS [months]  OS status (1=deceased, 0=living)  PFS [months]  progression (1=yes, 0=no)  MGMT methylation (1=methylated, 0=unmethylated) cHsp70
+47          60   f           66         17.5                                 0          17.1                          1                                                0    low
+new data sample:
+    cHsp70_level_high1_low0  Age MGMT methylation   PFS Progress  Sex  age  MGMT_methylation_methylated1_unmethylated0  progress sex
+54                        1  NaN              NaN  11.4      NaN  NaN   25                                           0         1   m

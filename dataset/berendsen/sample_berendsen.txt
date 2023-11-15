@@ -1,0 +1,7 @@
+berendsen - Utrecht2019dataset
+old data sample:
+     age  biopsy_debulking  KPS  adjuvant_treatment  SVZ status  survival   censoring  Unnamed: 7 Variables
+614   61               2.0    0                 0.0         NaN       41.0        1.0         NaN       NaN
+new data sample:
+     Age Adjuvant treatment Biopsy debulking  KPS SVZ status  age  adjuvant_treatment  SVZ_status  biopsy_debulking
+102  NaN                NaN              NaN    1        NaN   24                 2.0         1.0               2.0
